@@ -1,1 +1,6 @@
-
+[theme]
+primaryColor = "#2E8B57"             # 森林绿，用于按钮等交互
+backgroundColor = "#F4F8F4"          # 极淡的灰绿色，作为主背景，干净不刺眼
+secondaryBackgroundColor = "#E6EFE6" # 侧边栏：浅灰绿，区分层级
+textColor = "#2C3E2D"                # 深墨灰绿，比纯黑柔和，适合阅读
+font = "sans serif"
