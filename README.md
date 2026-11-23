@@ -16,3 +16,4 @@
 ## 🚀 如何运行
 1. 安装依赖：`pip install -r requirements.txt`
 2. 运行应用：`streamlit run app.py`
+<img width="458" height="247" alt="image" src="https://github.com/user-attachments/assets/771d59f1-eca1-49eb-a80d-7f508070e8a0" />
