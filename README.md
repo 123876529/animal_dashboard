@@ -18,5 +18,4 @@
 2. 运行应用：`streamlit run app.py`
 <img width="458" height="247" alt="image" src="https://github.com/user-attachments/assets/771d59f1-eca1-49eb-a80d-7f508070e8a0" />
 
-<img width="448" height="239" alt="image" src="https://github.com/user-attachments/assets/d1921ebe-6467-4d36-8563-ff331433adf6" />
-
+<img width="471" height="253" alt="image" src="https://github.com/user-attachments/assets/c5686b36-13ea-4b37-8416-ec985a88d11e" />
